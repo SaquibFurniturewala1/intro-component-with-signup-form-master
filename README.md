@@ -18,11 +18,8 @@ Users should be able to:
 
 ### Screenshot
 
-URL: (Screenshot/DestopView.png);
-URL: (Screenshot/DestopView.png);
-URL: (Screenshot/DestopErrorView.png);
-URL: (Screenshot/MobileView.png);
-URL: (Screenshot/MobileErrorView.png);
+background-image: url('Screenshot/DesktopView.png'), url('Screenshot/DesktopErrorView.png'), url('Screenshot/MobileView.png'), url('Screenshot/MobileErrorView.png');
+
 
 ### Links
 
