@@ -18,16 +18,16 @@ Users should be able to:
 
 ### Screenshot
 
-url(Screenshot/DestopView.png);
-url(Screenshot/DestopView.png);
-url(Screenshot/DestopErrorView.png);
-url(Screenshot/MobileView.png);
-url(Screenshot/MobileErrorView.png);
+URL: (Screenshot/DestopView.png);
+URL: (Screenshot/DestopView.png);
+URL: (Screenshot/DestopErrorView.png);
+URL: (Screenshot/MobileView.png);
+URL: (Screenshot/MobileErrorView.png);
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  (https://github.com/SaquibFurniturewala1/intro-component-with-signup-form-master)
+- Live Site URL: (https://saquibfurniturewala1.github.io/intro-component-with-signup-form-master/)
 
 ## My process
 
